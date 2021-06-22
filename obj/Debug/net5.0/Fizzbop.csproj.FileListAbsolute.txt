@@ -1,0 +1,16 @@
+C:\Users\PSoji\Documents\GitHub\Fizzbop\bin\Debug\net5.0\Fizzbop.exe
+C:\Users\PSoji\Documents\GitHub\Fizzbop\bin\Debug\net5.0\Fizzbop.deps.json
+C:\Users\PSoji\Documents\GitHub\Fizzbop\bin\Debug\net5.0\Fizzbop.runtimeconfig.json
+C:\Users\PSoji\Documents\GitHub\Fizzbop\bin\Debug\net5.0\Fizzbop.runtimeconfig.dev.json
+C:\Users\PSoji\Documents\GitHub\Fizzbop\bin\Debug\net5.0\Fizzbop.dll
+C:\Users\PSoji\Documents\GitHub\Fizzbop\bin\Debug\net5.0\ref\Fizzbop.dll
+C:\Users\PSoji\Documents\GitHub\Fizzbop\bin\Debug\net5.0\Fizzbop.pdb
+C:\Users\PSoji\Documents\GitHub\Fizzbop\obj\Debug\net5.0\Fizzbop.csprojAssemblyReference.cache
+C:\Users\PSoji\Documents\GitHub\Fizzbop\obj\Debug\net5.0\Fizzbop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSoji\Documents\GitHub\Fizzbop\obj\Debug\net5.0\Fizzbop.AssemblyInfoInputs.cache
+C:\Users\PSoji\Documents\GitHub\Fizzbop\obj\Debug\net5.0\Fizzbop.AssemblyInfo.cs
+C:\Users\PSoji\Documents\GitHub\Fizzbop\obj\Debug\net5.0\Fizzbop.csproj.CoreCompileInputs.cache
+C:\Users\PSoji\Documents\GitHub\Fizzbop\obj\Debug\net5.0\Fizzbop.dll
+C:\Users\PSoji\Documents\GitHub\Fizzbop\obj\Debug\net5.0\ref\Fizzbop.dll
+C:\Users\PSoji\Documents\GitHub\Fizzbop\obj\Debug\net5.0\Fizzbop.pdb
+C:\Users\PSoji\Documents\GitHub\Fizzbop\obj\Debug\net5.0\Fizzbop.genruntimeconfig.cache
